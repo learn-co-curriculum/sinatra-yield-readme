@@ -50,7 +50,7 @@ Now, let's say we have an `index.erb` with the following code:
 
 ### Yield
 
-Now that we have our layout written, how can we get the `layout.erb` loaded around the `index.erb`. 
+Now that we have our layout written, how can we get the `layout.erb` loaded around the `index.erb`?
 
 This is where the `yield` comes in.
 
@@ -117,3 +117,5 @@ The resulting HTML will look like this:
 
 
 <a href='https://learn.co/lessons/sinatra-yield-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-yield-readme'>Layouts and Yield</a> on Learn.co and start learning to code for free.</p>
